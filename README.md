@@ -1,3 +1,6 @@
+CCC J1 2020 - "Dog Treats"
+-------------------------
+
 Barley the dog loves treats. At the end of the day, he is either happy or sad, depending on the number and size of treats he receives throughout the day. 
 The treats come in three sizes: small, medium, and large. 
 His happiness score can be measured using the following formula:
@@ -31,3 +34,7 @@ SAMPLE INPUT:
 
 SAMPLE OUTPUT:
 --------------
+
+sad
+
+-------------
