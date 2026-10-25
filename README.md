@@ -40,3 +40,5 @@ SAMPLE OUTPUT:
 sad
 
 -------------
+
+Note: the names of these code files will be different, so just click any that says ".cpp" at the end of it to access answers
